@@ -1,7 +1,7 @@
 
 
 - 🔭 Atualmente trabalhando com Front-end
-- 🌱 Estudando React
+- 🌱 Estudando Kotlin
 - 📫 contate-me no email: samuel.batistela11@gmail.com
 
 <div>
