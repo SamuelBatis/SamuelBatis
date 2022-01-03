@@ -1,7 +1,7 @@
 
 
-- 🔭 Atualmente trabalhando com Front-end
-- 🌱 Estudando Reactjs
+- 🔭 Atualmente trabalhando como Full-stack
+- 🌱 Estudando Reactjs | Nodejs
 - 📫 contate-me no email: samuel.batistela11@gmail.com
 
 <div>
