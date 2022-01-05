@@ -1,6 +1,6 @@
 
 
-- 🔭 Atualmente trabalhando como Full-stack
+- 💬 Me: Developer
 - 🌱 Estudando Reactjs | Nodejs
 - 📫 contate-me no email: samuel.batistela11@gmail.com
 
