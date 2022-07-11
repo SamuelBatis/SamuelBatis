@@ -1,7 +1,7 @@
 
 
 - 💬 Me: Developer
-- 🌱 Estudando Laravel, Nodejs e Reactjs
+- 🌱 Estudando Java, Nodejs e Reactjs
 - 📫 contate-me no email: samuel.batistela11@gmail.com
 
 <div>
@@ -10,7 +10,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBatis&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
