@@ -1,7 +1,7 @@
 
 
 - 💬 Me: Developer
-- 🌱 Estudando Java, Nodejs e Reactjs
+- 🌱 Estudando Java e Angular
 - 📫 contate-me no email: samuel.batistela11@gmail.com
 
 <div>
