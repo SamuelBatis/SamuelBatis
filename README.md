@@ -1,8 +1,8 @@
 
 
 - 💬 Me: Developer
-- 🌱 Estudando Java e Angular
-- 📫 contate-me no email: samuel.batistela11@gmail.com
+- 🌱 Estudando: Java e Angular
+- 📫 contate-me: no email: samuel.batistela11@gmail.com
 
 <div>
   <a href="https://github.com/SamuelBatis">
