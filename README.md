@@ -1,7 +1,7 @@
 
 
 - 💬 Me: Developer
-- 🌱 Estudando: Java, Javascript e Typescript
+- 🌱 Estudando: Serverless e Microservices 
 - 📫 contate-me: no email: samuel.batistela11@gmail.com
 
 <div>
