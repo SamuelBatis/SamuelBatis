@@ -25,7 +25,7 @@
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
   </p>
   </td>
-  <td width="50%">
+  <td width="51%">
 
 <br><p align="center">Everything here is Open Source!<br><br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/samuel-batistela/)
@@ -41,7 +41,7 @@
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamuelBatis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/></p>
+  <p align = "center"><img height="155em" src="https://github-readme-stats.vercel.app/api?username=SamuelBatis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/></p>
   </td>
   <tr>
   <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
