@@ -51,8 +51,7 @@
   <td colspan=2 width ="50%">
   <br>
   <p align="center">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   </p>
   </table>
 
