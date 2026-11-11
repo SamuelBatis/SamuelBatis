@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Samuel 👋</h1>
 
 <p align="center">
-  Software developer working across backend, web and data.
+  Data Engineer & DevOps enthusiast
   <br>
-  I enjoy building full‑stack applications and exploring data engineering.
+  Building data pipelines, automating infrastructure and making systems reliable from ingestion to deployment.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://mailhide.io/e/6BeKyFTw">
     <img src="https://img.shields.io/badge/Email-reveal-22AA88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=samuelbatis&style=for-the-badge&color=555" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=samuelbatis&style=for-the-badge&color=blueviolet" alt="Profile views">
 </p>
 
 ---
