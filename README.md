@@ -1,65 +1,55 @@
+<h1 align="center">Hi, I'm Samuel 👋</h1>
 
-
-
-<table width="100%">
-  <tr>
-  <th>Tech stack currently using</th>
-  <th>Find me at</th>
-  </tr>
-  <tr>
-  <td width="50%">
-
- <p align = "center">
-   
-   
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-  
-  
-  
- </p>
-  <p align = "center">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
-  </p>
-   </p>
-  <p align = "center">
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  </p>
-  
-  </td>
-  <td width="51%">
-
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/samuel-batistela/)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/6BeKyFTw)
-![Visits](https://komarev.com/ghpvc/?username=samuelbatis)
-
+<p align="center">
+  Software developer working across backend, web and data.
+  <br>
+  I enjoy building full‑stack applications and exploring data engineering.
 </p>
-  </td>
-  <tr>
-  <td width = "50%">
-  <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbatis&layout=compact&show_icons=true&theme=onedark&locale=en&count_private=true&langs_count=8" alt="samuelbatis" /></p>
-  </td>
-  <td width = "50%">
-  <br>
-  <p align = "center"><img height="155em" src="https://github-readme-stats.vercel.app/api?username=SamuelBatis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/></p>
-  </td>
-  <tr>
-  <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
-  <tr>
-  <td colspan=2 width ="50%">
-  <br>
-  <p align="center">
-  
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg">
-  </p>
-  </table>
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-batistela/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://mailhide.io/e/6BeKyFTw">
+    <img src="https://img.shields.io/badge/Email-reveal-22AA88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=samuelbatis&style=for-the-badge&color=555" alt="Profile views">
+</p>
+
+---
+
+### 🛠️ Tech stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,cpp,java" alt="Python, TypeScript, C++, Java">
+</p>
+
+**Web**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs" alt="Next.js, React, Node.js">
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB">
+</p>
+
+### 🌱 Currently learning
+
+<p>
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark">
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelbatis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbatis&layout=compact&theme=onedark&langs_count=8&hide_border=true" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samuelbatis&theme=onedark&hide_border=true" alt="GitHub streak">
+</p>
