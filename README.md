@@ -20,6 +20,12 @@
 
 ### 🛠️ Tech stack
 
+**Data, Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,azure" alt="Linux, Docker, Azure">
+  <img height="48" src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks">
+</p>
+
 **Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,cpp,java" alt="Python, TypeScript, C++, Java">
